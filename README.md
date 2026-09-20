@@ -1,6 +1,6 @@
 # Jenkins DevOps Demo
 
-Repository used for Jenkins CI/CD demonstrations.
+Repository used for Jenkins CI/CD demonstrations as one.
 
 ## Components
 
